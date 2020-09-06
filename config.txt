@@ -1,0 +1,10 @@
+[files]
+root_dir = public_html
+malware_regex =
+file_extensions = .php,.html
+
+[sql]
+host =
+port =
+username =
+password =
